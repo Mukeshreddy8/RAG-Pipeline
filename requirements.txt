@@ -1,0 +1,9 @@
+langchain
+langchain_community
+ipykernel
+python-dotenv
+pypdf
+bs4
+langchain-text-splitters
+langchain-openai
+chromadb
